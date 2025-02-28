@@ -226,7 +226,7 @@ Helps track if the software solves the problem.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 
-Our software makes work easier and faster. It helps you find information quickly, work well with others, and manage tasks easily. It's simple to use and solves common problems without being complicated. Whether you need to save time, reduce mistakes, or improve teamwork, our software can help.
+This software makes work easier and faster. It helps you find information quickly, work well with others, and manage tasks easily. It's simple to use and solves common problems without being complicated. Whether you need to save time, reduce mistakes, or improve teamwork, this software can help.
 
 ## 11. What are the main features or functionalities that make your software stand out?
 
